@@ -6,6 +6,6 @@ subtitle: Call 9078632455
 menu:
   main:
     title: Contact
-    weight: 6
+    weight: 4
 
 ---
