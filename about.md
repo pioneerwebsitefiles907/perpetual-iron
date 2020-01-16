@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: Alaskan Engineering Services
-img_path: "/images/4.jpg"
+img_path: "/images/Logo-1.png"
 layout: page
 menu:
   main:
