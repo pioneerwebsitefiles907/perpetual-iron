@@ -1,1 +1,5 @@
---- {}
+---
+main:
+- title: Contact
+  weight: 4
+  url: https://docs.google.com/forms/d/e/1FAIpQLSdyCJtfM8ItEfw6_19gfvSEPTTOsxlt9kTeU18tmU9-AMiiUQ/viewform
