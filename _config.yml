@@ -14,7 +14,7 @@ footer:
   content: "&copy; All rights reserved."
   links:
   - text: Email us
-    url: pioneerllc@hotmail.com
+    url: mailto:someone@example.com
     new_window: true
 sass:
   indentWidth: 4
