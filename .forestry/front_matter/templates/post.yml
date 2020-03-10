@@ -44,3 +44,4 @@ fields:
     required: true
 pages:
 - _posts/2018-01-15-photography.md
+- _posts/test-post.md
